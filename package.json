@@ -1,0 +1,19 @@
+{
+  "name": "emfa-creator-guide",
+  "version": "1.0.0",
+  "description": "The EU Media Freedom Act, decoded for creators",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.1.4",
+    "vite": "^7.3.1"
+  }
+}
