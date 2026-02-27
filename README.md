@@ -2,6 +2,7 @@
 ## The EU Media Act, Decoded for Creators
 
 An interactive legal analysis of the **European Media Freedom Act** (Regulation (EU) 2024/1083) — breaking down what it means for content creators, who it applies to, and when a creator becomes a media service provider under EU law.
+View here: https://nananwachukwu.github.io/emfa-creator-guide
 
 ## Understanding this work
 
@@ -9,7 +10,7 @@ This visualisation walks through the EMFA in three parts:
 
 **Who does this law apply to?**
 
-*It looks at the eight categories of actors regulated by the EMFA, from media service providers to device manufacturers.**
+*It looks at the eight categories of actors regulated by the EMFA, from media service providers to device manufacturers.*
 
 **When does a creator become a media service provider?** 
 
@@ -17,7 +18,7 @@ This visualisation walks through the EMFA in three parts:
 
 **What protections does the law provide?**
 
-*I have oulined the eight provisions that directly affect creators' relationship with very large online platforms, including pre-takedown notice, priority complaints, forced dialogue, transparency reporting, and audience measurement disclosure.**
+*I have oulined the eight provisions that directly affect creators' relationship with very large online platforms, including pre-takedown notice, priority complaints, forced dialogue, transparency reporting, and audience measurement disclosure.*
 
 All quoted text is verbatim from the regulation as published in the Official Journal of the European Union.
 
